@@ -1,2 +1,2 @@
 # images
-It's a Image Hosting Service
+It's Image Hosting Service
